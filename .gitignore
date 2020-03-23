@@ -1,0 +1,7 @@
+.idea/
+fireREST/__pychache__/
+fpenv/
+venv
+.vscode/
+*.log
+*.result.txt
