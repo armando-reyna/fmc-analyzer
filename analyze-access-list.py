@@ -9,9 +9,9 @@ duplicates_file_path = 'access-list-FP-FTD2140-PRI.duplicates.log'
 result_file_path = 'access-list-FP-FTD2140-PRI.result.txt'
 error_file_path = 'access-list-FP-FTD2140-PRI.error.log'
 
-device = '10.200.64.6'
-username = 'ST00039'
-password = 'fpXTHeCtPL67'
+device = '127.0.0.1'
+username = 'username'
+password = 'password'
 domain = 'Global'
 
 parent_prefix = 'access-list'
